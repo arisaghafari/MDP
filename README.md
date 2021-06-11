@@ -1,2 +1,3 @@
 #mdp
-implementing MDP algorithm
+implementing MDP algorithm for AI course
+
